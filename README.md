@@ -1,42 +1,49 @@
-<p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1400&color=FF7A5C&center=true&vCenter=true&width=620&lines=Computer+Science+undergraduate;LLM+agents+%C2%B7+RAG+%C2%B7+computer+vision;Building+Chatrix"><img alt="Computer Science undergraduate, LLM agents, RAG, computer vision, building Chatrix" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1400&color=D2452E&center=true&vCenter=true&width=620&lines=Computer+Science+undergraduate;LLM+agents+%C2%B7+RAG+%C2%B7+computer+vision;Building+Chatrix"></picture>
-</p>
+# Soykng
 
-<p align="center">
-  <a href="https://yekunsong.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-d2452e?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://yekunsong.github.io/blog/"><img alt="Technical notes" src="https://img.shields.io/badge/Notes-14161a?style=for-the-badge&logo=rss&logoColor=white"></a>
-  <a href="https://github.com/yekunsong?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Repositories-14161a?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://github.com/yekunsong/yekunsong/blob/main/README.zh.md"><img alt="中文" src="https://img.shields.io/badge/%E4%B8%AD%E6%96%87-d2452e?style=for-the-badge"></a>
-</p>
+<sub>YEKUN SONG · HE/HIM</sub>
 
-I build agent systems and the tooling that keeps them honest: retrieval that cites its sources, code review that runs real checks, and visualizations generated from evidence instead of guesswork. Currently building **Chatrix**, an AI agent platform for enterprise websites.
+<img src="assets/rule.svg" width="72" height="2" alt="">
 
-### Selected work
+[Website](https://yekunsong.github.io/) · [LinkedIn](https://www.linkedin.com/in/yekunsong) · [GitHub](https://github.com/yekunsong) · [中文](README.zh.md)
 
-| Project | What it does | Stack |
-| :-- | :-- | :-- |
-| **[ai-code-guard](https://github.com/yekunsong/ai-code-guard)** | Runs approved checks in isolated workspaces, reports readiness gaps with evidence, previews safe repairs | `TypeScript` |
-| **[code-flow-map](https://github.com/yekunsong/code-flow-map)** | Turns static imports into an interactive architecture atlas — offline HTML, JSON, CSV, Mermaid | `Python` |
-| **[project-history-flow](https://github.com/yekunsong/project-history-flow)** | Builds repository evolution timelines with traceable branch, review, and commit artifacts | `TypeScript` |
-| **[yekunsong.github.io](https://github.com/yekunsong/yekunsong.github.io)** | Source of my site, notes, and project archive | `HTML` |
+Computer Science and Technology undergraduate working on LLM applications and computer vision.
 
-### Stack
+<picture class="strip"><source media="(prefers-color-scheme: dark)" srcset="assets/projects-dark.svg"><img src="assets/projects-light.svg" width="100%" alt="Five sliding project cards: Chatrix, Code Flow Map, StreamWise, Defect Detection, Radiative Cooling"></picture>
 
-<p class="icons">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,typescript,cpp,java,pytorch,vue,nodejs,mysql,linux,git&theme=dark&perline=10"><img alt="Python, TypeScript, C++, Java, PyTorch, Vue, Node.js, MySQL, Linux, Git" src="https://skillicons.dev/icons?i=python,typescript,cpp,java,pytorch,vue,nodejs,mysql,linux,git&theme=light&perline=10"></picture>
-</p>
+### Projects
 
-### Numbers
+| Period | Project | One line |
+| --- | --- | --- |
+| `Aug 2026 — present` | [Chatrix](https://www.yanjutech.com/en) | Agent platform for enterprise websites, built end to end |
+| `Jun 2026 — Aug 2026` | [Code Flow Map](https://github.com/yekunsong/code-flow-map) | Static-analysis atlas of imports, layers, and data flows |
+| `May 2026 — Jul 2026` | StreamWise | Scoring engine, LLM generation, and RL calibration |
+| `Sep 2025 — Jan 2026` | Defect Detection | Detection head and segmentation refinement with ablations |
+| `Sep 2025 — Jan 2026` | Radiative Cooling | Inverse topology design with NSGA-II and cost-weighted selection |
 
-<p class="stats">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=yekunsong&show_icons=true&hide_border=true&bg_color=00000000&disable_animations=true&title_color=ff7a5c&text_color=9198a1&icon_color=ff7a5c&include_all_commits=true"><img height="160" alt="GitHub statistics" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yekunsong&show_icons=true&hide_border=true&bg_color=00000000&disable_animations=true&title_color=d2452e&text_color=6e7681&icon_color=d2452e&include_all_commits=true"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=yekunsong&hide_border=true&background=00000000&ring=ff7a5c&fire=ff7a5c&currStreakLabel=ff7a5c&sideLabels=9198a1&dates=9198a1&currStreakNum=e6edf3&sideNums=e6edf3"><img height="160" alt="Commit streak" src="https://streak-stats.demolab.com?user=yekunsong&hide_border=true&background=00000000&ring=d2452e&fire=d2452e&currStreakLabel=d2452e&sideLabels=6e7681&dates=6e7681&currStreakNum=14161a&sideNums=14161a"></picture>
-</p>
+### Experience
 
-### How I work
+<code>Aug 2026 — present</code> · **AI Agent Development Intern**, Shanghai Xinshutongshi Technology Co., Ltd. (Internship · Shanghai, China)
 
-- **Evidence over assertion.** Tools cite files, commits, and test output; anything unverified is marked as such.
-- **Small, reviewable moves.** Drafts separate from versions, previews before writes, releases that can be traced back.
-- **Bilingual by default.** Documentation and interfaces ship in English and Chinese.
+- Built an end-to-end customer-service agent workflow with traceable stages, checkpoints, and structured evidence across context assembly, tool calls, generation, safety checks, sending, and feedback.
+- Integrated observability with quality assurance so every reply can be replayed, audited, and traced to root cause.
+- Cut average reply latency from 20 s+ to 12 s while improving quality, and turned human-reviewed failures into regression cases covering original issues, counterexamples, and adjacent scenarios.
 
-<p align="center"><sub>Open to conversations about agent tooling, retrieval, and computer vision.</sub></p>
+<code>May 2026 — Jul 2026</code> · **Technical lead**, StreamWise — technical design and task decomposition across scoring, generation, and RL calibration.
+
+### Education
+
+<code>2023 — 2028</code> · **Xiamen University Malaysia** — Bachelor of Computing and Data Science (Computer Science)
+
+CGPA 3.80 / 4.0 · Dean’s List two consecutive years · multiple university scholarships
+
+### Skills
+
+Methods: `AI agents` `Agent workflow optimization` `RAG` `NLP` `Reinforcement learning` `Graph neural networks` `Mathematical modeling` `Multi-objective optimization` `Data visualization` `Technical documentation`
+
+Tools: `Python` `C++` `Java` `PyTorch` `Vue 3` `Node.js / Express` `MySQL` `Git` `Linux` `LaTeX`
+
+### Honors
+
+- Bronze Award, Southeast Asia Contest of the China International College Students’ Innovation Competition (SEA-CICSIC 2026), Jul 2026 — StreamWise, Technical lead
+- Second Prize, 2025 MathorCup Applied Mathematics Challenge — Big Data (Dec 2025)
+- First Prize, 2025 Asia-Pacific Mathematical Contest in Modeling (Nov 2025)

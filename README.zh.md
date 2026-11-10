@@ -1,42 +1,49 @@
-<p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1400&color=FF7A5C&center=true&vCenter=true&width=620&lines=%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF%E6%9C%AC%E7%A7%91%E7%94%9F;LLM+%C2%B7+RAG+%C2%B7+%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89;%E5%9C%A8%E5%81%9A+Chatrix"><img alt="计算机科学与技术本科生，LLM，RAG，计算机视觉，在做 Chatrix" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1400&color=D2452E&center=true&vCenter=true&width=620&lines=%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF%E6%9C%AC%E7%A7%91%E7%94%9F;LLM+%C2%B7+RAG+%C2%B7+%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89;%E5%9C%A8%E5%81%9A+Chatrix"></picture>
-</p>
+# Soykng
 
-<p align="center">
-  <a href="https://yekunsong.github.io/zh/"><img alt="个人网站" src="https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-d2452e?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://yekunsong.github.io/zh/blog/"><img alt="技术笔记" src="https://img.shields.io/badge/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0-14161a?style=for-the-badge&logo=rss&logoColor=white"></a>
-  <a href="https://github.com/yekunsong?tab=repositories"><img alt="全部仓库" src="https://img.shields.io/badge/%E5%85%A8%E9%83%A8%E4%BB%93%E5%BA%93-14161a?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://github.com/yekunsong/yekunsong/blob/main/README.md"><img alt="English" src="https://img.shields.io/badge/EN-d2452e?style=for-the-badge"></a>
-</p>
+<sub>YEKUN SONG · HE/HIM</sub>
 
-我做智能体系统，也做让它靠得住的工具：会标明来源的检索、会跑真实检查的代码评审、基于证据而非猜测生成的可视化。目前在做 **Chatrix** —— 面向企业网站的 AI 智能体平台。
+<img src="assets/rule.svg" width="72" height="2" alt="">
 
-### 代表项目
+[个人网站](https://yekunsong.github.io/zh/) · [LinkedIn](https://www.linkedin.com/in/yekunsong) · [GitHub](https://github.com/yekunsong) · [EN](README.md)
 
-| 项目 | 作用 | 技术 |
-| :-- | :-- | :-- |
-| **[ai-code-guard](https://github.com/yekunsong/ai-code-guard)** | 在隔离工作区内执行已批准的检查，以证据报告就绪度缺口，并预览安全修复 | `TypeScript` |
-| **[code-flow-map](https://github.com/yekunsong/code-flow-map)** | 把静态导入关系变成可交互的架构地图 —— 离线 HTML、JSON、CSV、Mermaid | `Python` |
-| **[project-history-flow](https://github.com/yekunsong/project-history-flow)** | 从仓库历史生成演进时间线，附带可追溯的分支、评审与提交产物 | `TypeScript` |
-| **[yekunsong.github.io](https://github.com/yekunsong/yekunsong.github.io)** | 个人网站、笔记与项目档案的源码 | `HTML` |
+计算机科学与技术本科在读，主要做大模型应用开发和计算机视觉实验。
 
-### 技术栈
+<picture class="strip"><source media="(prefers-color-scheme: dark)" srcset="assets/projects-dark.svg"><img src="assets/projects-light.svg" width="100%" alt="五张自动滑动的项目卡片：言矩、Code Flow Map、StreamWise、缺陷检测、辐射制冷"></picture>
 
-<p class="icons">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,typescript,cpp,java,pytorch,vue,nodejs,mysql,linux,git&theme=dark&perline=10"><img alt="Python、TypeScript、C++、Java、PyTorch、Vue、Node.js、MySQL、Linux、Git" src="https://skillicons.dev/icons?i=python,typescript,cpp,java,pytorch,vue,nodejs,mysql,linux,git&theme=light&perline=10"></picture>
-</p>
+### 项目
 
-### 数据
+| 周期 | 项目 | 一句话 |
+| --- | --- | --- |
+| `2026 年 8 月至今` | [言矩](https://www.yanjutech.com/zh) | 面向企业网站、端到端独立完成的智能体平台 |
+| `2026 年 6 月 — 2026 年 8 月` | [Code Flow Map](https://github.com/yekunsong/code-flow-map) | 导入、分层与数据流的静态分析架构图谱 |
+| `2026 年 5 月 — 2026 年 7 月` | StreamWise | 评分引擎、大模型生成与强化学习校准 |
+| `2025 年 9 月 — 2026 年 1 月` | 工业表面缺陷检测 | 检测头与分割细化，配合消融实验 |
+| `2025 年 9 月 — 2026 年 1 月` | 辐射制冷 | 基于 NSGA-II 与成本加权选择的逆向拓扑设计 |
 
-<p class="stats">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=yekunsong&show_icons=true&hide_border=true&bg_color=00000000&disable_animations=true&title_color=ff7a5c&text_color=9198a1&icon_color=ff7a5c&include_all_commits=true"><img height="160" alt="GitHub 数据" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yekunsong&show_icons=true&hide_border=true&bg_color=00000000&disable_animations=true&title_color=d2452e&text_color=6e7681&icon_color=d2452e&include_all_commits=true"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=yekunsong&hide_border=true&background=00000000&ring=ff7a5c&fire=ff7a5c&currStreakLabel=ff7a5c&sideLabels=9198a1&dates=9198a1&currStreakNum=e6edf3&sideNums=e6edf3"><img height="160" alt="连续贡献" src="https://streak-stats.demolab.com?user=yekunsong&hide_border=true&background=00000000&ring=d2452e&fire=d2452e&currStreakLabel=d2452e&sideLabels=6e7681&dates=6e7681&currStreakNum=14161a&sideNums=14161a"></picture>
-</p>
+### 经历
 
-### 工作方式
+<code>2026 年 8 月至今</code> · **AI Agent 开发实习生**，Shanghai Xinshutongshi Technology Co., Ltd.（实习 · 中国上海）
 
-- **证据优先于断言。** 工具会引用文件、提交与测试输出，未经核实的结论会明确标注。
-- **小步、可评审。** 草稿与版本分离，写入前先预览，发布可追溯。
-- **默认双语。** 文档与界面同时维护中英文。
+- 搭建端到端的客服智能体工作流，在上下文组装、工具调用、生成、安全检查、发送与反馈各阶段保留可追踪的环节、检查点和结构化证据。
+- 将可观测性与质量保障结合，使每条回复都可回放、审计并追溯到根因。
+- 在提升质量的同时，将平均回复延迟从 20 s 以上降到 12 s；并把人工复核发现的失败案例转化为回归用例，覆盖原始问题、反例与相邻场景。
 
-<p align="center"><sub>欢迎聊聊智能体工具、检索与计算机视觉。</sub></p>
+<code>2026 年 5 月 — 2026 年 7 月</code> · **技术负责人**，StreamWise —— 负责评分、生成与强化学习校准的技术设计与任务拆解。
+
+### 教育经历
+
+<code>2023 — 2028</code> · **厦门大学马来西亚分校** — 计算与数据科学学士（计算机科学）
+
+平均绩点 3.80 / 4.0 · 连续两年入选院长荣誉名单 · 多次获得大学奖学金
+
+### 技能
+
+方法：`AI Agent` `智能体工作流优化` `RAG` `NLP` `强化学习` `图神经网络` `数学建模` `多目标优化` `数据可视化` `技术文档`
+
+工具：`Python` `C++` `Java` `PyTorch` `Vue 3` `Node.js / Express` `MySQL` `Git` `Linux` `LaTeX`
+
+### 荣誉
+
+- 东南亚赛区铜奖，中国国际大学生创新大赛东南亚赛区（SEA-CICSIC 2026，2026 年 7 月）—— StreamWise，技术负责人
+- 2025 年 MathorCup 应用数学挑战赛大数据赛道二等奖（2025 年 12 月）
+- 2025 年亚太地区大学生数学建模竞赛一等奖（2025 年 11 月）

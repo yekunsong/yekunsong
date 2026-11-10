@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 260" width="880" height="260" role="img" aria-label="Five sliding project cards: Chatrix, Code Flow Map, StreamWise, Defect Detection, Radiative Cooling">
+  <rect width="880" height="260" fill="#ffffff"/>
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-1696 0" dur="40s" repeatCount="indefinite"/>
+  <g transform="translate(24 30)">
+    <rect width="320" height="200" fill="#ffffff" stroke="#e3e8ee"/>
+    <text x="24" y="40" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" letter-spacing=".5" fill="#2563eb">01</text>
+    <rect x="24" y="48" width="24" height="2" fill="#2563eb"/>
+    <text x="24" y="86" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="600" fill="#20242c">Chatrix</text>
+    <text x="24" y="124" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#58606b">Agent platform for enterprise websites</text>
+    <text x="24" y="176" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#58606b">Vue 3 / Node.js / MySQL / RAG</text>
+  </g>
+  <g transform="translate(368 30)">
+    <rect width="320" height="200" fill="#ffffff" stroke="#e3e8ee"/>
+    <text x="24" y="40" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" letter-spacing=".5" fill="#2563eb">02</text>
+    <rect x="24" y="48" width="24" height="2" fill="#2563eb"/>
+    <text x="24" y="86" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="600" fill="#20242c">Code Flow Map</text>
+    <text x="24" y="124" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#58606b">Static-analysis architecture atlas</text>
+    <text x="24" y="176" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#58606b">TypeScript / Vue</text>
+  </g>
+  <g transform="translate(712 30)">
+    <rect width="320" height="200" fill="#ffffff" stroke="#e3e8ee"/>
+    <text x="24" y="40" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" letter-spacing=".5" fill="#2563eb">03</text>
+    <rect x="24" y="48" width="24" height="2" fill="#2563eb"/>
+    <text x="24" y="86" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="600" fill="#20242c">StreamWise</text>
+    <text x="24" y="124" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#58606b">Content scoring and generation</text>
+    <text x="24" y="176" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#58606b">GNN / RAG / RL</text>
+  </g>
+  <g transform="translate(1056 30)">
+    <rect width="320" height="200" fill="#ffffff" stroke="#e3e8ee"/>
+    <text x="24" y="40" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" letter-spacing=".5" fill="#2563eb">04</text>
+    <rect x="24" y="48" width="24" height="2" fill="#2563eb"/>
+    <text x="24" y="86" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="600" fill="#20242c">Defect Detection</text>
+    <text x="24" y="124" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#58606b">Small-defect localization</text>
+    <text x="24" y="176" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#58606b">PyTorch / YOLO / SAM</text>
+  </g>
+  <g transform="translate(1400 30)">
+    <rect width="320" height="200" fill="#ffffff" stroke="#e3e8ee"/>
+    <text x="24" y="40" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" letter-spacing=".5" fill="#2563eb">05</text>
+    <rect x="24" y="48" width="24" height="2" fill="#2563eb"/>
+    <text x="24" y="86" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="600" fill="#20242c">Radiative Cooling</text>
+    <text x="24" y="124" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#58606b">Inverse topology design</text>
+    <text x="24" y="176" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#58606b">NSGA-II</text>
+  </g>
+  <g transform="translate(1720 30)">
+    <rect width="320" height="200" fill="#ffffff" stroke="#e3e8ee"/>
+    <text x="24" y="40" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" letter-spacing=".5" fill="#2563eb">01</text>
+    <rect x="24" y="48" width="24" height="2" fill="#2563eb"/>
+    <text x="24" y="86" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="600" fill="#20242c">Chatrix</text>
+    <text x="24" y="124" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#58606b">Agent platform for enterprise websites</text>
+    <text x="24" y="176" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#58606b">Vue 3 / Node.js / MySQL / RAG</text>
+  </g>
+  <g transform="translate(2064 30)">
+    <rect width="320" height="200" fill="#ffffff" stroke="#e3e8ee"/>
+    <text x="24" y="40" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" letter-spacing=".5" fill="#2563eb">02</text>
+    <rect x="24" y="48" width="24" height="2" fill="#2563eb"/>
+    <text x="24" y="86" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="600" fill="#20242c">Code Flow Map</text>
+    <text x="24" y="124" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#58606b">Static-analysis architecture atlas</text>
+    <text x="24" y="176" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#58606b">TypeScript / Vue</text>
+  </g>
+  <g transform="translate(2408 30)">
+    <rect width="320" height="200" fill="#ffffff" stroke="#e3e8ee"/>
+    <text x="24" y="40" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" letter-spacing=".5" fill="#2563eb">03</text>
+    <rect x="24" y="48" width="24" height="2" fill="#2563eb"/>
+    <text x="24" y="86" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="600" fill="#20242c">StreamWise</text>
+    <text x="24" y="124" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#58606b">Content scoring and generation</text>
+    <text x="24" y="176" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#58606b">GNN / RAG / RL</text>
+  </g>
+  <g transform="translate(2752 30)">
+    <rect width="320" height="200" fill="#ffffff" stroke="#e3e8ee"/>
+    <text x="24" y="40" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" letter-spacing=".5" fill="#2563eb">04</text>
+    <rect x="24" y="48" width="24" height="2" fill="#2563eb"/>
+    <text x="24" y="86" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="600" fill="#20242c">Defect Detection</text>
+    <text x="24" y="124" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#58606b">Small-defect localization</text>
+    <text x="24" y="176" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#58606b">PyTorch / YOLO / SAM</text>
+  </g>
+  <g transform="translate(3096 30)">
+    <rect width="320" height="200" fill="#ffffff" stroke="#e3e8ee"/>
+    <text x="24" y="40" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" letter-spacing=".5" fill="#2563eb">05</text>
+    <rect x="24" y="48" width="24" height="2" fill="#2563eb"/>
+    <text x="24" y="86" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="600" fill="#20242c">Radiative Cooling</text>
+    <text x="24" y="124" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#58606b">Inverse topology design</text>
+    <text x="24" y="176" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#58606b">NSGA-II</text>
+  </g>
+  </g>
+</svg>
