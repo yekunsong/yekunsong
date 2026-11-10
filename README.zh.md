@@ -1,9 +1,5 @@
 # Soykng
 
-<sub>YEKUN SONG · HE/HIM</sub>
-
-<img src="assets/rule.svg" width="72" height="2" alt="">
-
 [个人网站](https://yekunsong.github.io/zh/) · [LinkedIn](https://www.linkedin.com/in/yekunsong) · [GitHub](https://github.com/yekunsong) · [EN](README.md)
 
 计算机科学与技术本科在读，主要做大模型应用开发和计算机视觉实验。
@@ -19,6 +15,10 @@
 | `2026 年 5 月 — 2026 年 7 月` | StreamWise | 评分引擎、大模型生成与强化学习校准 |
 | `2025 年 9 月 — 2026 年 1 月` | 工业表面缺陷检测 | 检测头与分割细化，配合消融实验 |
 | `2025 年 9 月 — 2026 年 1 月` | 辐射制冷 | 基于 NSGA-II 与成本加权选择的逆向拓扑设计 |
+
+### 数据
+
+<p><picture class="stat"><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=yekunsong&show_icons=true&bg_color=00000000&hide_border=true&disable_animations=true&title_color=ff7a5c&icon_color=ff7a5c&text_color=9198a1"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yekunsong&show_icons=true&bg_color=00000000&hide_border=true&disable_animations=true&title_color=d2452e&icon_color=d2452e&text_color=6e7681" height="160" alt="GitHub 统计"></picture> <picture class="stat"><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=yekunsong&background=00000000&hide_border=true&ring=ff7a5c&fire=ff7a5c&currStreakLabel=9198a1&sideLabels=9198a1&dates=9198a1&currStreakNum=9198a1&sideNums=9198a1"><img src="https://streak-stats.demolab.com?user=yekunsong&background=00000000&hide_border=true&ring=d2452e&fire=d2452e&currStreakLabel=6e7681&sideLabels=6e7681&dates=6e7681&currStreakNum=6e7681&sideNums=6e7681" height="160" alt="连续贡献天数"></picture></p>
 
 ### 经历
 
@@ -36,11 +36,13 @@
 
 平均绩点 3.80 / 4.0 · 连续两年入选院长荣誉名单 · 多次获得大学奖学金
 
-### 技能
+### 技能与工具
 
 方法：`AI Agent` `智能体工作流优化` `RAG` `NLP` `强化学习` `图神经网络` `数学建模` `多目标优化` `数据可视化` `技术文档`
 
-工具：`Python` `C++` `Java` `PyTorch` `Vue 3` `Node.js / Express` `MySQL` `Git` `Linux` `LaTeX`
+工具：
+
+<picture class="skill"><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,typescript,cpp,java,pytorch,vue,nodejs,mysql,linux,git&theme=dark&perline=10"><img height="52" src="https://skillicons.dev/icons?i=python,typescript,cpp,java,pytorch,vue,nodejs,mysql,linux,git&theme=light&perline=10" alt="Python、TypeScript、C++、Java、PyTorch、Vue、Node.js、MySQL、Linux、Git"></picture>
 
 ### 荣誉
 

@@ -1,9 +1,5 @@
 # Soykng
 
-<sub>YEKUN SONG · HE/HIM</sub>
-
-<img src="assets/rule.svg" width="72" height="2" alt="">
-
 [Website](https://yekunsong.github.io/) · [LinkedIn](https://www.linkedin.com/in/yekunsong) · [GitHub](https://github.com/yekunsong) · [中文](README.zh.md)
 
 Computer Science and Technology undergraduate working on LLM applications and computer vision.
@@ -19,6 +15,10 @@ Computer Science and Technology undergraduate working on LLM applications and co
 | `May 2026 — Jul 2026` | StreamWise | Scoring engine, LLM generation, and RL calibration |
 | `Sep 2025 — Jan 2026` | Defect Detection | Detection head and segmentation refinement with ablations |
 | `Sep 2025 — Jan 2026` | Radiative Cooling | Inverse topology design with NSGA-II and cost-weighted selection |
+
+### Numbers
+
+<p><picture class="stat"><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=yekunsong&show_icons=true&bg_color=00000000&hide_border=true&disable_animations=true&title_color=ff7a5c&icon_color=ff7a5c&text_color=9198a1"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yekunsong&show_icons=true&bg_color=00000000&hide_border=true&disable_animations=true&title_color=d2452e&icon_color=d2452e&text_color=6e7681" height="160" alt="GitHub statistics"></picture> <picture class="stat"><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=yekunsong&background=00000000&hide_border=true&ring=ff7a5c&fire=ff7a5c&currStreakLabel=9198a1&sideLabels=9198a1&dates=9198a1&currStreakNum=9198a1&sideNums=9198a1"><img src="https://streak-stats.demolab.com?user=yekunsong&background=00000000&hide_border=true&ring=d2452e&fire=d2452e&currStreakLabel=6e7681&sideLabels=6e7681&dates=6e7681&currStreakNum=6e7681&sideNums=6e7681" height="160" alt="Current and longest contribution streak"></picture></p>
 
 ### Experience
 
@@ -36,11 +36,13 @@ Computer Science and Technology undergraduate working on LLM applications and co
 
 CGPA 3.80 / 4.0 · Dean’s List two consecutive years · multiple university scholarships
 
-### Skills
+### Skills & tools
 
 Methods: `AI agents` `Agent workflow optimization` `RAG` `NLP` `Reinforcement learning` `Graph neural networks` `Mathematical modeling` `Multi-objective optimization` `Data visualization` `Technical documentation`
 
-Tools: `Python` `C++` `Java` `PyTorch` `Vue 3` `Node.js / Express` `MySQL` `Git` `Linux` `LaTeX`
+Tools:
+
+<picture class="skill"><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,typescript,cpp,java,pytorch,vue,nodejs,mysql,linux,git&theme=dark&perline=10"><img height="52" src="https://skillicons.dev/icons?i=python,typescript,cpp,java,pytorch,vue,nodejs,mysql,linux,git&theme=light&perline=10" alt="Python, TypeScript, C++, Java, PyTorch, Vue, Node.js, MySQL, Linux, Git"></picture>
 
 ### Honors
 
